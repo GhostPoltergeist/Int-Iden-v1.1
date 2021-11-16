@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635501009 source:c:\program files\codeblocks\ifelseprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635501009 source:c:\program files\codeblocks\codeidentifer\main.c
+	<stdio.h>
+	<stdlib.h>
+
